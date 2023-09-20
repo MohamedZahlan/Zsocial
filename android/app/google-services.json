@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894221846876",
+    "project_id": "social-app-b4288",
+    "storage_bucket": "social-app-b4288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894221846876:android:e86e5cdf072ab1e4bed999",
+        "android_client_info": {
+          "package_name": "com.Zahlan_.zsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894221846876-uglt8n5ljdfs558drbp4cbcvkfapdorb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Zahlan_.zsocial",
+            "certificate_hash": "baa83b0f4f0bf27b3fccffa278ea1c78c3fee64d"
+          }
+        },
+        {
+          "client_id": "894221846876-v4b4kgfj74fci63hfu1jlqa81etipedn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_FTXtBQKALSvsGKXXntW3Z3AFBtO8as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894221846876-v4b4kgfj74fci63hfu1jlqa81etipedn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
